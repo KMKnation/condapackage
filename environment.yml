@@ -7,8 +7,6 @@ dependencies:
   - pandas
   - pyjwt=2.4.0
   - spacy-model-en_core_web_lg
-  - cffi
-  - importlib-resources
   - pip:
       - spacy==3.4.1
       - oci==2.124.2
@@ -32,3 +30,4 @@ dependencies:
       - typing-inspect==0.8.0
       - urllib3==1.26.14
       - cffi==1.16.0
+      - importlib-resources==6.4.0
