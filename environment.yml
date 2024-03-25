@@ -7,6 +7,7 @@ dependencies:
   - pandas
   - pyjwt=2.4.0
   - spacy-model-en_core_web_lg
+  - cffi
   - pip:
       - oci==2.124.2
       - oracle-ads==2.11.2
